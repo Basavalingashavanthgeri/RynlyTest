@@ -1,0 +1,12 @@
+com\rynly\qa\pages\RegistrationPage.class
+com\rynly\qa\util\WebEventListener.class
+com\rynly\qa\base\TestBase.class
+com\rynly\qa\util\TestUtil.class
+com\rynly\qa\pages\ConfirmationPage.class
+com\rynly\qa\pages\PackageCreatePage.class
+com\rynly\qa\pages\LabelPage.class
+com\rynly\qa\pages\HomePage.class
+com\rynly\qa\pages\BillingPage.class
+com\rynly\qa\pages\PrintLabelPage.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\rynly\qa\pages\LoginPage.class

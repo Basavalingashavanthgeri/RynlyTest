@@ -1,0 +1,6 @@
+com\rynly\qa\testcases\HomePageTest.class
+com\rynly\qa\testcases\Runner.class
+com\rynly\qa\testcases\PackageCreatePageTest.class
+com\rynly\qa\testcases\ConfirmationPageTest.class
+com\rynly\qa\testcases\BillingPageTest.class
+com\rynly\qa\testcases\LoginPageTest.class
