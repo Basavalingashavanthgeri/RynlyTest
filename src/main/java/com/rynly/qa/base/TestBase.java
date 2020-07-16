@@ -42,7 +42,7 @@ public class TestBase {
 		
 		if(browserName.equals("chrome")){
 			System.setProperty("webdriver.chrome.silentOutput", "true");
-			System.setProperty("webdriver.chrome.driver", "C:/Users/BasavalingaS/Downloads/chromedriver_win32/chromedriver.exe");	
+			System.setProperty("webdriver.chrome.driver","src/main/resources/chromedriver.exe");	
 			driver = new ChromeDriver(); 
 		}
 		

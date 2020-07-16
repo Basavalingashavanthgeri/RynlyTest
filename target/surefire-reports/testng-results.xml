@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="RYNLY Application Test Automation Test Suite" duration-ms="24638" started-at="2020-06-24T04:06:33Z" finished-at="2020-06-24T04:06:58Z">
+  <suite started-at="2020-06-25T07:18:07Z" name="RYNLY Application Test Automation Test Suite" finished-at="2020-06-25T07:18:51Z" duration-ms="44309">
     <groups>
     </groups>
-    <test name="Rynly Test Cases" duration-ms="24638" started-at="2020-06-24T04:06:33Z" finished-at="2020-06-24T04:06:58Z">
+    <test started-at="2020-06-25T07:18:07Z" name="Rynly Test Cases" finished-at="2020-06-25T07:18:51Z" duration-ms="44309">
       <class name="com.rynly.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.rynly.qa.testcases.LoginPageTest@180bc464]" name="setUp" is-config="true" duration-ms="22639" started-at="2020-06-24T04:06:33Z" finished-at="2020-06-24T04:06:56Z">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.rynly.qa.testcases.LoginPageTest@2698dc7]" started-at="2020-06-25T07:18:07Z" name="setUp" finished-at="2020-06-25T07:18:40Z" duration-ms="33348" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.rynly.qa.testcases.LoginPageTest@180bc464]" name="loginTest" duration-ms="701" started-at="2020-06-24T04:06:56Z" finished-at="2020-06-24T04:06:57Z">
+        <test-method signature="loginTest()[pri:0, instance:com.rynly.qa.testcases.LoginPageTest@2698dc7]" started-at="2020-06-25T07:18:40Z" name="loginTest" finished-at="2020-06-25T07:18:49Z" duration-ms="8194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.rynly.qa.testcases.LoginPageTest@180bc464]" name="tearDown" is-config="true" duration-ms="1260" started-at="2020-06-24T04:06:57Z" finished-at="2020-06-24T04:06:58Z">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.rynly.qa.testcases.LoginPageTest@2698dc7]" started-at="2020-06-25T07:18:49Z" name="tearDown" finished-at="2020-06-25T07:18:51Z" duration-ms="2708" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
